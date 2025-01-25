@@ -1,0 +1,22 @@
+export const PROJECT_CATEGORIES = [
+  'Web Development',
+  'Mobile App',
+  'AI/ML',
+  'Blockchain',
+  'IoT',
+  'Game Development',
+  'Open Source', 
+  'E-commerce',
+  'Social Media',
+  'Education',
+  'Healthcare',
+  'Fintech',
+  'Cybersecurity',
+  'Cloud Computing',
+  'DevOps',
+  'Data Science',
+  'UI/UX Design',
+  'AR/VR',
+  'Robotics',
+  'SaaS'
+] as const; 
